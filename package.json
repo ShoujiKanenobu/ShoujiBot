@@ -1,0 +1,12 @@
+{
+	"name": "shoujibot",
+	"version": "1.0.0",
+	"description": "Shouji Bot",
+	"main": "bot.js",
+	"author": "Shouji Kanenobu",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"mtgsdk": "^0.4.3",
+		"winston": "^3.2.1"
+	}
+}
